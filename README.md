@@ -1,5 +1,5 @@
 # Ask-AI 🤖✨ (Powered by Google Gemini)
-[https://your-demo-link.com](https://ask-ai-eight-red.vercel.app/))
+([Ask_AI](https://ask-ai-eight-red.vercel.app/))
 
 
 An AI chatbot clone using Google's Gemini API to simulate intelligent, human-like conversations. Built with Next.js 14, Tailwind CSS, and App Router, Ask-AI is a minimal, clean, and fast chatbot UI ready for deployment.
